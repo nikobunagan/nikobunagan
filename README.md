@@ -1,4 +1,5 @@
 ## Hi there 👋
+Slowly building out both work and personal projects on Github
 
 <!--
 **nikobunagan/nikobunagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
